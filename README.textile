@@ -8,7 +8,7 @@ First, install arma using whatever method you prefer:
 
 bc. gem install git://github.com/smontgomerie/arma.git
 
-A test script has been provided in "test.rb"
+A test script has been provided in @test.rb@
 
 bc. ruby test.rb
 
